@@ -1,9 +1,7 @@
-- 👋 Hi, I’m @kshitizkhanal7
-- 👀 I’m interested in energy systems, planning, machine learning, and open knowledge.
-- 🌱 I’m currently enrolled in a Ph.D. program at the Department of City and Regional Planning at the University of North Carolina at Chapel Hill. In my dissertation, I investigate the applications of machine learning and geospatial analysis techniques in energy planning.
-- 📫 Twitter @kshitizkhanal7
-- My [personal website](https://kshitizkhanal.com) contains more information about my project portfolio, CV, talks, and teaching experience.  
-
+- 👋 Hi, I’m @kshitizkhanal7.
+- I work on machine learning (primarily geospatial computer vision and large language models).
+- 🌱 I’m finished my PhD from the University of North Carolina at Chapel Hill in 2024 working on applied ML for energy/water utility planning and climate resilience.
+- Check out [personal website](https://kshitizkhanal.com)
 
 <!---
 kshitizkhanal7/kshitizkhanal7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
